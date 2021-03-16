@@ -1,9 +1,9 @@
 # Ecommerce Shop
-[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://dors-ecommerce-shop.herokuapp.com)
+[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://gal-nesher-e-commerce.herokuapp.com)
 ---
 >Implented MERN Stack CRUD Operations with React, Node.js, MongoDB and Express.
 
->Admin User : admin@gmail.com
+>Admin User : ghalk3@gmail.com
 
 >Admin Password : 123123
 
@@ -129,4 +129,4 @@ Once the dependencies are installed, you can run npm start to start the applicat
 
 
 ## Contact
-Created by [Dor Romano](https://www.linkedin.com/in/dor-romano-164667197/) - feel free to contact me!
+Created by [Gal Nesher](https://www.linkedin.com/in/gal-nesher-153a881a3/) - feel free to contact me!
