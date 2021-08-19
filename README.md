@@ -3,7 +3,7 @@
 ---
 >Implented MERN Stack CRUD Operations with React, Node.js, MongoDB and Express.
 ---
-<Live Demo: https://dor-ecommerce.web.app/
+>Live Demo: https://dor-ecommerce.web.app/
 
 >Admin User : admin@gmail.com
 
